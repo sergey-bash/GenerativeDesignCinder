@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6AAD2080-7934-4D21-98A5-DF4A2701489E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>P_1_2_3_04</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B7430885-BD72-4E83-B3BD-F4A61D2ABAE0</key>
+		<string>ssh://github.com/sergey-bash/GenerativeDesignCinder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>01_P/P_1_2_3_04/xcode/P_1_2_3_04.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B7430885-BD72-4E83-B3BD-F4A61D2ABAE0</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/sergey-bash/GenerativeDesignCinder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B7430885-BD72-4E83-B3BD-F4A61D2ABAE0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B7430885-BD72-4E83-B3BD-F4A61D2ABAE0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GenerativeDesignCinder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
